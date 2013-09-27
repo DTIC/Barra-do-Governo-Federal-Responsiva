@@ -56,9 +56,11 @@
 		float: right;
 	}
 
-	@media(max-width: 768px){#barra-brasil .centro{width: auto;}#barra-brasil .linha-inicio{display: none;}}
+	@media(max-width: 768px){#barra-brasil .centro{width: auto;}
+                             #barra-brasil .linha-inicio{display: none;}}
 	@media(min-width: 768px) and (max-width: 992px){#barra-brasil .centro{width: 750px;}}
 	@media(min-width: 992px){#barra-brasil .centro{width: 970px;}}
+    @media(min-width: 320px){#barra-brasil .centro{width: 320px;}}
 
 	/*
 
@@ -67,6 +69,10 @@
 		Este código é uma versão para sites responsivos da para barra oficial do governo
 		federal do Brasil onde você encontra o oficial neste link:
 		http://epwg.governoeletronico.gov.br/barra/
+
+        Ela foi desenvolvida no IFSC (Instituto Federal de Santa Catarina) na Diretoria
+        de Tecnologia da Informação e Comunicação (DTIC) dentro da Coordenadoria de
+        Sistemas (CSI).
 
 		Para qualquer dúvida de implementação ou para saber mais sobre mim entre no link
 		abaixo: 
