@@ -34,7 +34,7 @@ Capturas de telas
 
 Exemplo de uso deste software em telas com tamanhos variáveis.
 
-.. image:: https://github.com/dtic/Barra-do-Governo-Federal-Responsiva/docs/imgs/screenshots/animate.gif
+![Animação da Barra Responsiva](https://raw.github.com/dtic/Barra-do-Governo-Federal-Responsiva/master/docs/img/screenshots/nova/capture.gif)
 
 
 Disclaimer
